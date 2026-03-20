@@ -1,0 +1,4 @@
+TextDecoder
+false
+history
+HTMLAllCollection
